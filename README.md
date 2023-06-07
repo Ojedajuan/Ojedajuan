@@ -1,9 +1,8 @@
 ### Hi there 👋
-
-Actualmente trabajo estoy chequeando los  sistemas de autenticación 
-tanto front como back juanca viste para luego crear modelos y
-sus serializadores.
-Utilizare un repo de referencia y asi comparar codigosd comparar codigos 
-y pegando el codigo que tenia ya preparado, seria algo parecido pero con su codigo y vas despedazando que fueron haciendo
+Surgio la nececidad de refacotrizar nuestro codigo, tratando de utilizar mas programacion en Python.
+Por eso comparo repositorios publicos y sus correspondientes  sistemas de autenticación 
+tanto front como back para luego constatar opciones para crear modelos y
+sus serializadores. 
+Utilizare un repo de referencia y asi comparar codigos, 
 
 -->
